@@ -1,0 +1,40 @@
+C:\Users\taylorg\Source\Repos\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.exe.config
+C:\Users\taylorg\Source\Repos\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.exe
+C:\Users\taylorg\Source\Repos\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.pdb
+C:\Users\taylorg\Source\Repos\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csprojResolveAssemblyReference.cache
+C:\Users\taylorg\Source\Repos\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.Form1.resources
+C:\Users\taylorg\Source\Repos\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.Properties.Resources.resources
+C:\Users\taylorg\Source\Repos\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csproj.GenerateResource.Cache
+C:\Users\taylorg\Source\Repos\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\taylorg\Source\Repos\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.exe
+C:\Users\taylorg\Source\Repos\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.pdb
+C:\Users\g_tay\Documents\Job Specs\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.exe.config
+C:\Users\g_tay\Documents\Job Specs\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.exe
+C:\Users\g_tay\Documents\Job Specs\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.pdb
+C:\Users\g_tay\Documents\Job Specs\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csprojAssemblyReference.cache
+C:\Users\g_tay\Documents\Job Specs\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.Form1.resources
+C:\Users\g_tay\Documents\Job Specs\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.Properties.Resources.resources
+C:\Users\g_tay\Documents\Job Specs\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csproj.GenerateResource.cache
+C:\Users\g_tay\Documents\Job Specs\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\g_tay\Documents\Job Specs\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.exe
+C:\Users\g_tay\Documents\Job Specs\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.pdb
+C:\Users\taylorg\Documents\G\InsuranceCalcExamples\G Calc-2nd\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.exe.config
+C:\Users\taylorg\Documents\G\InsuranceCalcExamples\G Calc-2nd\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.exe
+C:\Users\taylorg\Documents\G\InsuranceCalcExamples\G Calc-2nd\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.pdb
+C:\Users\taylorg\Documents\G\InsuranceCalcExamples\G Calc-2nd\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csprojResolveAssemblyReference.cache
+C:\Users\taylorg\Documents\G\InsuranceCalcExamples\G Calc-2nd\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.Form1.resources
+C:\Users\taylorg\Documents\G\InsuranceCalcExamples\G Calc-2nd\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.Properties.Resources.resources
+C:\Users\taylorg\Documents\G\InsuranceCalcExamples\G Calc-2nd\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csproj.GenerateResource.Cache
+C:\Users\taylorg\Documents\G\InsuranceCalcExamples\G Calc-2nd\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\taylorg\Documents\G\InsuranceCalcExamples\G Calc-2nd\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.exe
+C:\Users\taylorg\Documents\G\InsuranceCalcExamples\G Calc-2nd\AppliedCalc\Calc-master\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.pdb
+C:\Users\taylorg\Documents\testtesttest\appliedCalc-master\AppliedCalc\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.exe.config
+C:\Users\taylorg\Documents\testtesttest\appliedCalc-master\AppliedCalc\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.exe
+C:\Users\taylorg\Documents\testtesttest\appliedCalc-master\AppliedCalc\AppliedCalculator\AppliedCalculator\bin\Debug\AppliedCalculator.pdb
+C:\Users\taylorg\Documents\testtesttest\appliedCalc-master\AppliedCalc\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csprojResolveAssemblyReference.cache
+C:\Users\taylorg\Documents\testtesttest\appliedCalc-master\AppliedCalc\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.Form1.resources
+C:\Users\taylorg\Documents\testtesttest\appliedCalc-master\AppliedCalc\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.Properties.Resources.resources
+C:\Users\taylorg\Documents\testtesttest\appliedCalc-master\AppliedCalc\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csproj.GenerateResource.Cache
+C:\Users\taylorg\Documents\testtesttest\appliedCalc-master\AppliedCalc\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\taylorg\Documents\testtesttest\appliedCalc-master\AppliedCalc\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.exe
+C:\Users\taylorg\Documents\testtesttest\appliedCalc-master\AppliedCalc\AppliedCalculator\AppliedCalculator\obj\Debug\AppliedCalculator.pdb
